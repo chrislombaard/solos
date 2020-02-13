@@ -1,0 +1,74 @@
+# IDEs
+.project
+.pydevproject
+.idea
+.vscode
+.settings
+
+# Random files
+*~
+\#*
+.DS_Store
+.ipynb_checkpoints
+snapshot
+.env
+.ve
+
+ve/
+virtualenv/
+*/__pycache__/
+*/*/__pycache__/
+.mypy_cache/
+.pyenv/
+htmlcov/
+.tox/
+*egg-info/
+.cache/
+__pycache__/
+media/
+data/
+coverage/
+
+# Python compiled byte code
+*.pyc
+
+# SQLite3 database
+*.sqlite*
+dump.rdb
+*.db
+db.cypress
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Coverage
+coverage/
+.coverage
+.cache
+
+# static validation files
+.eslintrc
+.sass-lint.yml
+.prospector.yml
+.coveragerc
+
+# in case we run shippable tests don't include it
+shippable/
+
+# Webpack
+webpack-stats.json
+.yarnclean
+yarn-error.log
+
+# Other
+settings_local.py
+**/static/**/generated_statics
+/urls_local.py
+dist/
+build/
+.hypothesis/
+public/
+cypress-db.json
+etc/*.json
+etc/*.csv
