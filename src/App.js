@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <h1 className="App">
-      Hey Kyle. YOU SUCK. 😂
+      Hey Kyle. YOU SUCK. <span>😂</span>
     </h1>
   );
 }

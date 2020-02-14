@@ -72,3 +72,6 @@ public/
 cypress-db.json
 etc/*.json
 etc/*.csv
+
+# Local Netlify folder
+.netlify
