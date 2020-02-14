@@ -1,9 +1,8 @@
 import React from 'react';
-import './App.css';
 
 function App() {
   return (
-    <h1 className="App">
+    <h1>
       Hey Kyle. YOU SUCK. <span>😂</span>
     </h1>
   );

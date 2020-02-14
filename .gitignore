@@ -68,7 +68,6 @@ settings_local.py
 dist/
 build/
 .hypothesis/
-public/
 cypress-db.json
 etc/*.json
 etc/*.csv
